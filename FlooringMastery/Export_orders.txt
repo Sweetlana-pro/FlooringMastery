@@ -1,0 +1,59 @@
+Date 2013-06-01
+
+1,Ada Lovelace,CA,25.00,Tile,249.00,3.50,4.15,871.50,1033.35,476.21,2381.06
+
+Date 2013-06-02
+
+2,Doctor Who,WA,9.25,Wood,243.00,5.15,4.75,1251.45,1154.25,216.51,2622.21
+3,Albert Einstein,KY,6.00,Carpet,217.00,2.25,2.10,488.25,455.70,56.64,1000.59
+
+Date 2021-10-20
+
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,R2D2,TX,4.45,Laminate,125.000,1.75,2.10,218.75,262.50,21.42,502.67
+2,My Company,WA,9.25,Carpet,99.000,2.25,2.10,222.75,207.90,39.84,470.49
+2,Dream Company,KY,6.00,Wood,145.000,5.15,4.75,746.75,688.75,86.13,1521.63
+
+Date 2021-10-22
+
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Pro Inc,WA,9.25,Wood,111.000,5.15,4.75,571.65,527.25,101.65,1200.55
+
+Date 2021-10-24
+
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,DASSS,TX,4.45,Wood,198.000,5.15,4.75,1019.70,940.50,87.23,2047.43
+2,Dad&Sons,KY,6.00,Carpet,100.000,2.25,2.10,225.00,210.00,26.10,461.10
+
+Date 2021-10-26
+
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,LLRH,KY,6.00,Tile,123.000,3.50,4.15,430.50,510.45,56.46,997.41
+2,dfr,KY,6.00,Wood,123.000,5.15,4.75,633.45,584.25,73.06,1290.76
+3,cnt,WA,9.25,Carpet,345.000,2.25,2.10,776.25,724.50,138.82,1639.57
+
+Date 2021-11-11
+
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Aristotle,CA,25.00,Wood,276.000,5.15,4.75,1421.40,1311.00,683.10,3415.50
+
+Date 2021-12-01
+
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Second,TX,4.45,Wood,128.000,5.15,4.75,659.20,608.00,56.39,1323.59
+2,Third,TX,4.45,Carpet,139.000,2.25,2.10,312.75,291.90,26.91,631.56
+
+Date 2021-12-12
+
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Fantastic Mr. Fox,KY,6.00,Tile,187.000,3.50,4.15,654.50,776.05,85.83,1516.38
+1,Roga,TX,4.45,Tile,209.000,3.50,4.15,731.50,867.35,71.15,1670.00
+1,Solomon,CA,25.00,Wood,187.000,5.15,4.75,963.05,888.25,462.83,2314.13
+2,Platon,TX,4.45,Tile,654.000,3.50,4.15,2289.00,2714.10,222.64,5225.74
+4,Sophocles,KY,6.00,Laminate,186.000,1.75,2.10,325.50,390.60,42.97,759.07
+6,Herodotus,CA,25.00,Laminate,284.000,1.75,2.10,497.00,596.40,273.35,1366.75
+7,Homer,WA,9.25,Wood,290.000,5.15,4.75,1493.50,1377.50,265.57,3136.57
+1,Aplil Inc,TX,4.45,Laminate,127.000,1.75,2.10,222.25,266.70,21.76,510.71
+1,January ,KY,6.00,Wood,128.000,5.15,4.75,659.20,608.00,76.03,1343.23
+8,Third,TX,4.45,Tile,129.000,3.50,4.15,451.50,535.35,43.91,1030.76
+

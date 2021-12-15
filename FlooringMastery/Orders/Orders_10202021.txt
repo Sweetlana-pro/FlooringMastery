@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,R2D2,TX,4.45,Laminate,125.000,1.75,2.10,218.75,262.50,21.42,502.67
+2,My Company,WA,9.25,Carpet,99.000,2.25,2.10,222.75,207.90,39.84,470.49
+2,Dream Company,KY,6.00,Wood,145.000,5.15,4.75,746.75,688.75,86.13,1521.63

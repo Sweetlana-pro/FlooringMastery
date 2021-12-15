@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Pro Inc,WA,9.25,Wood,111.000,5.15,4.75,571.65,527.25,101.65,1200.55

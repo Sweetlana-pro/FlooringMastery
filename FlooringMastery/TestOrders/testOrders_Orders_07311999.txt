@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Infinity Solutions,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+2,Amazon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10

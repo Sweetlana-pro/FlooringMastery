@@ -1,0 +1,17 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+2,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+3,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+4,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+5,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+6,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+7,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+8,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+9,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+10,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+11,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+12,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+13,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+14,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+15,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+16,Cool Dudes & Co.,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10

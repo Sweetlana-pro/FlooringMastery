@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Cool Dudes & Co.,WA,6.00,Laminate,100,1.75,2.11,175.00,211.00,23.16,409.16
+2,Amazon,WA,6.00,Laminate,100,1.75,2.11,175.00,211.00,23.16,409.16
+3,Big Failure,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+4,Big Failure,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10

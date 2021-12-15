@@ -1,0 +1,17 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+2,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+3,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+4,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+5,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+6,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+7,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+8,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+9,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+10,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+11,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+12,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+13,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+14,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+15,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10
+16,Solomon,IN,6.00,Laminate,100,1.75,2.10,175.00,210.00,23.10,408.10

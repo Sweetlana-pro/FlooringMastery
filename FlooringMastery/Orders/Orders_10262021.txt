@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,LLRH,KY,6.00,Tile,123.000,3.50,4.15,430.50,510.45,56.46,997.41
+2,dfr,KY,6.00,Wood,123.000,5.15,4.75,633.45,584.25,73.06,1290.76
+3,cnt,WA,9.25,Carpet,345.000,2.25,2.10,776.25,724.50,138.82,1639.57

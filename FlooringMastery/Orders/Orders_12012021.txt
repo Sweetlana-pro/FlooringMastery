@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Second,TX,4.45,Wood,128.000,5.15,4.75,659.20,608.00,56.39,1323.59
+2,Third,TX,4.45,Carpet,139.000,2.25,2.10,312.75,291.90,26.91,631.56

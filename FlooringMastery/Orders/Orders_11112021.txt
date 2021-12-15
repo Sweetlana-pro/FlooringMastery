@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Aristotle,CA,25.00,Wood,276.000,5.15,4.75,1421.40,1311.00,683.10,3415.50
